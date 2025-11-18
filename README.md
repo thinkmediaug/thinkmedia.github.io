@@ -100,7 +100,7 @@
     <h2>Contact Us</h2>
     <p style="text-align:center;">
         Email: thinkmediaug@gmail.com<br>
-        Phone: +256 *** *** ***<br><br>
+        Phone: +256 752297624 <br><br>
         Let’s create something amazing together!
     </p>
 </section>
